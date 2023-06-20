@@ -6,7 +6,7 @@
          <img src="http://raw.githubusercontent.com/jaeminjjung/jaeminjjung.github.io/main/jmjung_portrait.jpeg" alt="" class="wp-image-23" style="padding-left: 10px; padding-bottom: 20px;"/>
     </div>
     <div class="twoColumn">
-         <p>Jaemin Jeong received his MSc. from City University of London (2018) and B.S from Seoul National University (2010). He was a System Integration Consultant clients including Korea Development Bank and Korea Broadcast Advertising Corporation, etc. He was a lecturer at Gwangju Institute of Science and Technology(2021). </p>
+         <p>Jaemin Jeong received his MSc. from City University of London (2018) and B.S from Seoul National University (2010). He was a Data Scientist, clients including Korea Development Bank and Korea Broadcast Advertising Corporation, etc. He was a lecturer at Gwangju Institute of Science and Technology(2021). </p>
 
 <p>He is currently a lecturer at Graduate School of Software Technology, Kookmin University (2022 ~ Present). His  interests and industrial projects include:</p>
 <br/>
@@ -20,6 +20,7 @@
     </div>
 </div>
 
+<p>His vocation is : "to provide IT education and student aptitude, career guidance. My profession is to give hope and healing to students' minds based on one's inner path, genuine interest, aptitude, career, pathway, fun and what they wish to do, leading to success.”</p>
 
 CV <strong>[</strong><strong><a rel="noreferrer noopener" href="https://github.com/dscoool/dscoool.github.io/raw/800ae1022fdfed00fc9a54bb35506215b8f353b2/assets/docs/CV_JAEMIN_JEONG_Instructor.pdf" target="_blank">download</a>]</strong>
 
