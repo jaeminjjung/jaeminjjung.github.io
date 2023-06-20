@@ -3,12 +3,12 @@
 
 <div id="wrapper">
     <div class="twoColumn">
-         <img src="https://raw.githubusercontent.com/dscoool/dscoool.github.io/main/jmjung_portrait.jpeg" alt="" class="wp-image-23" style="padding-left: 10px; padding-bottom: 20px;"/>
+         <img src="http://raw.githubusercontent.com/jaeminjjung/jaeminjjung.github.io/main/jmjung_portrait.jpeg" alt="" class="wp-image-23" style="padding-left: 10px; padding-bottom: 20px;"/>
     </div>
     <div class="twoColumn">
          <p>Jaemin Jeong received his MSc. from City University of London (2018) and B.S from Seoul National University (2010). He was a System Integration Consultant clients including Korea Development Bank and Korea Broadcast Advertising Corporation, etc. He was a lecturer at Gwangju Institute of Science and Technology(2021). </p>
 
-<p>He is currently a lecturer at College of Computer Science, Kookmin University (2022). His  interests and industrial projects include:</p>
+<p>He is currently a lecturer at Graduate School of Software Technology, Kookmin University (2022 ~ Present). His  interests and industrial projects include:</p>
 <br/>
 <ul>
   <li>Financial Market, Quantitative Model, Techniques for preventing humanitarian crisis, child abuse and neglection.</li> 
@@ -33,7 +33,6 @@ Lecturer Introduction - Kookmin University [<a href="https://swgs.kookmin.ac.kr/
 <strong>
 정재민 (JAEMIN JEONG) <br/>
 국민대학교 소프트웨어융합대학원<br/>
-T. 010-5840-9500 <br/>
 E. jaeminjjeong@kookmin.ac.kr<br/>
     </strong>
   
