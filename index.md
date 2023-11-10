@@ -22,7 +22,7 @@
 
 <p>His vocation is : "to provide IT education and student aptitude, career guidance. My profession is to give hope and healing to students' minds based on one's inner path, genuine interest, aptitude, career, pathway, fun and what they wish to do, leading to success.”</p>
 
-CV <strong>[</strong><strong><a rel="noreferrer noopener" href="https://github.com/dscoool/dscoool.github.io/raw/800ae1022fdfed00fc9a54bb35506215b8f353b2/assets/docs/CV_JAEMIN_JEONG_Instructor.pdf" target="_blank">download</a>]</strong>
+CV <strong>[</strong><strong><a rel="noreferrer noopener" href="https://jeongjaem.in/CV_JaeminJeong_Lecturer.pdf" target="_blank">download</a>]</strong>
 
 MSc. Dissertation - <TV Show rating prediction by Machine Learning Methods with quantisation of the review> [<a href="https://github.com/dscoool/dscoool.github.io/raw/main/assets/docs/TV%20Show%20Rating%20Prediction%20with%20Machine%20Learning%20methods%20with%20quantisation%20of%20the%20review%20(2017)%20-%20Jaemin%20Jeong%20-%20City%2C%20University%20of%20London%20(3).pdf">click</a>]
 
