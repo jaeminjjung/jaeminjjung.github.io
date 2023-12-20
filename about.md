@@ -8,6 +8,6 @@
 
 ### Values
 
-Justice, Fair, Transparent, Truth
+<p> Honourable, Truth, Liberty, Transparent, Fairness, Mercy, Joy, Forgiveness, Freedom, Peace, Goodness, Global.
 
 
