@@ -8,6 +8,6 @@
 
 ### Values
 
-<p> Honourable, Truth, Liberty, Transparent, Fairness, Mercy, Joy, Forgiveness, Freedom, Peace, Goodness, Expat friendly, Global.
+<p> Honour, Truth, Liberty, Transparent, Fair, Mercy, Joy, Forgiveness, Freedom, Peace, Goodness, Expat friendly and Global.
 
 
