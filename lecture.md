@@ -2,8 +2,8 @@
 # Lectures
 
 ### GIST AI-X Course, GIST (2021) [<a href="https://github.com/dscoool/gist-aix">board</a>]
-### Data Engineering, Kookmin University (2022) [<a href="https://ecampus.kookmin.ac.kr/course/view.php?id=48724">board</a>]
-### Data Structure, Kookmin University (2022) [<a href="https://ecampus.kookmin.ac.kr/course/view.php?id=48724">board</a>]
+### Data Engineering, Kookmin University (2022-2023) [<a href="https://ecampus.kookmin.ac.kr/course/view.php?id=48724">board</a>]
+### Data Structure, Kookmin University (2022-2023) [<a href="https://ecampus.kookmin.ac.kr/course/view.php?id=48724">board</a>]
 ### Introduction to Bigdata, Kookmin University (2023) [<a href="https://ecampus.kookmin.ac.kr/course/view.php?id=48724">board</a>]
 ### 모두의MySQL 온라인 코스 - 
 [<a href="https://inf.run/uuqBi">인프런</a>]
