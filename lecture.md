@@ -11,4 +11,5 @@
 [<a href="https://school.programmers.co.kr/learn/courses/16925/16925-%EB%AA%A8%EB%91%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-mysql">프로그래머스</a>]
 ### 모두의 인공지능 [<a href="https://youtube.com/@moduai">Youtube</a>]
 ### 모두의 인공지능 [<a href="https://tv.naver.com/dscoool">NaverTV</a>]
+### 강의자료 [<a href="https://github.com/dscoool">Github</a>]
 
