@@ -6,12 +6,12 @@
          <img src="http://raw.githubusercontent.com/jaeminjjung/jaeminjjung.github.io/main/jmjung_portrait.jpeg" alt="" class="wp-image-23" style="padding-left: 10px; padding-bottom: 20px;"/>
     </div>
     <div class="twoColumn">
-         <p>Jaemin Jeong received his MSc. from City University of London (2017) and B.S from Seoul National University (2010). He was a Data Scientist, clients including Korea Development Bank and Korea Broadcast Advertising Corporation, etc. He was a lecturer at Gwangju Institute of Science and Technology(2021). </p>
+         <p>Jaemin Jeong received his MSc. from City University of London (2017) and B.S from Seoul National University (2010). He was a Data Scientist, clients including Korea Development Bank, Sobetec, etc. He was a lecturer at Gwangju Institute of Science and Technology(2021). </p>
 
 <p>He is currently a lecturer at Graduate School of Software Technology, Kookmin University (2022 ~ Present). His  interests and industrial projects include:</p>
 <br/>
 <ul>
-  <li>Financial Market, Quantitative Model, Techniques for preventing humanitarian crisis, child abuse and neglection.</li> 
+  <li>Financial Market, Quantitative Model, Techniques for human rights protection and children right protection.</li> 
   <li>Corporate Loan assessment system with NLP (Sentiment Analysis)</li>
   <li>TV-CF Video Archive/e-Library meta tagging solution.</li>
   <li>Financial modelling and quantitative modeling & investment.</li>
