@@ -8,7 +8,7 @@
     <div class="twoColumn">
          <p>Jaemin Jeong received his MSc. from City University of London (2017) and B.S from Seoul National University (2010). He was a Data Scientist, clients including Korea Development Bank, Sobetec, etc. He was a lecturer at Gwangju Institute of Science and Technology(2021). </p>
 
-<p>He is currently a lecturer at Graduate School of Software Technology, Kookmin University (2022 ~ Present). His  interests and industrial projects include:</p>
+<p>He was a lecturer at Graduate School of Software Technology, Kookmin University (2022 ~ 2024). His  interests and industrial projects include:</p>
 <br/>
 <ul>
   <li>Financial Market, Quantitative Model, Techniques for human rights protection and children right protection.</li> 
