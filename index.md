@@ -6,7 +6,7 @@
          <img src="http://raw.githubusercontent.com/jaeminjjung/jaeminjjung.github.io/main/jmjung_portrait.jpeg" alt="" class="wp-image-23" style="padding-left: 10px; padding-bottom: 20px;"/>
     </div>
     <div class="twoColumn">
-         <p>Jaemin Jeong received his MSc. from City University of London (2017) and B.S from Seoul National University (2010). He was a Data Scientist, clients including Korea Development Bank, Sobetec, etc. He was a lecturer at Gwangju Institute of Science and Technology(2021). </p>
+         <p>Jaemin Jeong received his MSc. from City University of London (2017) and B.S from Seoul National University (2010). He was a Data Scientist, clients including Korea Development Bank, Sobetec, etc. He was a lecturer at Gwangju Institute of Science and Technology (2021). </p>
 
 <p>He was a lecturer at Graduate School of Software Technology, Kookmin University (2022 ~ 2024). His  interests and industrial projects include:</p>
 <br/>
@@ -33,7 +33,6 @@ Lecturer Introduction - Kookmin University [<a href="https://swgs.kookmin.ac.kr/
 
 <strong>
 정재민 (JAEMIN JEONG) <br/>
-국민대학교 소프트웨어융합대학원<br/>
 E. jaeminjjeong@kookmin.ac.kr<br/>
     </strong>
   
