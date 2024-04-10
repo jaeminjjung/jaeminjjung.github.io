@@ -11,7 +11,7 @@
 <p>He was a lecturer at Graduate School of Software Technology, Kookmin University (2022 ~ 2024). His  interests and industrial projects include:</p>
 <br/>
 <ul>
-  <li>Financial Market, Quantitative Model, Techniques for human rights protection and children right protection.</li> 
+  <li>Financial Market, Quantitative Model.</li> 
   <li>Corporate Loan assessment system with NLP</li>
   <li>Financial modelling and quantitative modeling & investment.</li>
   <li>Student aptitude development and career guidance.</li>
@@ -20,7 +20,7 @@
 </div>
 
 <p>His vocation is : "to provide IT education and student aptitude, career guidance. My profession is to give hope and healing to students' minds based on one's inner path, genuine interest, aptitude, career, pathway, fun and what they wish to do, leading to success.”</p>
-<p>He values at: #transparency #truth #trust #kindness
+<p>He values at: #transparency #truth #trust #kindness #expats #human rights #children rights
 
 CV <strong>[</strong><strong><a rel="noreferrer noopener" href="https://jeongjaem.in/CV_JaeminJeong_Lecturer.pdf" target="_blank">download</a>]</strong>
 
