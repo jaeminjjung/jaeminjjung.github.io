@@ -5,6 +5,7 @@
 ### Data Engineering, Kookmin University (2022-2023) [<a href="https://ecampus.kookmin.ac.kr/course/view.php?id=48724">board</a>]
 ### Data Structure, Kookmin University (2022-2023) [<a href="https://ecampus.kookmin.ac.kr/course/view.php?id=48724">board</a>]
 ### Introduction to Bigdata, Kookmin University (2023) [<a href="https://ecampus.kookmin.ac.kr/course/view.php?id=48724">board</a>]
+### Basics of SQL Data Analysis, Samsung Multicampus (2024) [<a href = "https://www.multicampus.com/em/enrolment/courseDetai?p_menu=NzUjU1VC&p_gubun=Qw==&dxLanYn=N&corsCd=FA011P">page</a>]
 ### 모두의MySQL 온라인 코스 - 
 [<a href="https://inf.run/uuqBi">인프런</a>]
 [<a href="https://www.udemy.com/course/modu_sql/?referralCode=113EB10599DC7AD277BD">Udemy</a>]
