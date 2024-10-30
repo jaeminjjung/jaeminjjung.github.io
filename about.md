@@ -2,7 +2,7 @@
 
 <!-- wp:paragraph -->
 
-## Personal Objectives and Vocations
+## Objectives
 
 <p> I. To provide an IT education and student aptitude/career guidance. My profession is to give hope and healing to students' minds based on one's inner path, genuine interest, aptitude, career, pathway, fun and what they wish to do, leading to success.
 </p>
@@ -21,8 +21,8 @@ IV. [SDG 16.6] develop effective, accountable and transparent institutions at al
 [SDG 16.6.2] Understanding satisfaction with public services for more effective, accountable and inclusive public institutions
 </p>
 
-### Values
+## Values
 
-<p> # Transparency #Trust # Truth #Fairness #Equity # Peace # Freecom #Prosperity #Enjoy #Expat Support.</p>
+###<p> # Transparency #Trust # Truth #Fairness #Equity # Peace # Freecom #Prosperity #Enjoy #Expat Support.</p>
 
 
