@@ -23,6 +23,6 @@ IV. [SDG 16.6] develop effective, accountable and transparent institutions at al
 
 ### Values
 
-<p> # Transparency #Trust # Truth #Fairness #Equity # Peace # Freecom #prosperous #Enjoy #Expat Support.</p>
+<p> # Transparency #Trust # Truth #Fairness #Equity # Peace # Freecom #Prosperity #Enjoy #Expat Support.</p>
 
 
