@@ -2,12 +2,12 @@
 
 <!-- wp:paragraph -->
 
-## Objectives
+## Personal Objectives and Vocations
 
-<p> I. A vocation to provide an IT education and student aptitude/career guidance. My profession is to give hope and healing to students' minds based on one's inner path, genuine interest, aptitude, career, pathway, fun and what they wish to do, leading to success.
+<p> I. To provide an IT education and student aptitude/career guidance. My profession is to give hope and healing to students' minds based on one's inner path, genuine interest, aptitude, career, pathway, fun and what they wish to do, leading to success.
 </p>
 <p>
-  II. A vocation to make and succefully operate a tourist attractive expat living house.
+  II. To make and succefully operate a tourist attractive expat living house.
 </p>
 
 <p>
