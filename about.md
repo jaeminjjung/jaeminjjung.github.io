@@ -11,16 +11,16 @@
 </p>
 
 <p>
-III. [SDG 4.4] “By 2030, substantially increase the number of youth and adults
+III. [SDG 4.4] By 2030, substantially increase the number of youth and adults
 who have relevant skills, including technical and vocational skills, for
-employment, decent jobs and entrepreneurship”
+employment, decent jobs and entrepreneurship.
 <br/>
 [SDG 4.4.1] Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill.
 </p>
 <p>
-IV. [SDG 16.6] develop effective, accountable and transparent institutions at all levels
+IV. [SDG 16.6] Develop effective, accountable and transparent institutions at all levels.
   <br/>
-[SDG 16.6.2] Understanding satisfaction with public services for more effective, accountable and inclusive public institutions
+[SDG 16.6.2] Understanding satisfaction with public services for more effective, accountable and inclusive public institutions.
 </p>
 
 ## Values
