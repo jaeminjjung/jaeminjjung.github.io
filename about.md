@@ -27,4 +27,4 @@ IV. [SDG 16.6] Develop effective, accountable and transparent institutions at al
 
 ### # Transparency #Trust # Truth #Fairness #Equity # Peace # Freecom #Prosperity #Enjoy #Expat Support.
 
-
+#[Slide](https://docs.google.com/presentation/d/e/2PACX-1vRp9X_mLGP7PEzpt6kMiHDW92IX6nPvgqW5uLVOlMVP_C7IxzrJCLLaj4pRuXcgnjb4llOD_BYifELK/pub?start=true&loop=false&delayms=60000)
