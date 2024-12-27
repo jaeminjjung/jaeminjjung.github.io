@@ -17,7 +17,8 @@ Currently he is teaching at ESTSoft (2025)
 ### - Student aptitude development and career guidance.
 ### His vocation is : "to provide IT education and student aptitude, career guidance. His profession is to give hope and healing to students' minds based on one's inner path, genuine interest, aptitude, career, pathway, fun and what they wish to do, leading to success.”
   </p>
-
+</h3>
+<h3>
 <p class="fw-bold">Degrees</p>
 <ul class="fa-ul">
 <li>
