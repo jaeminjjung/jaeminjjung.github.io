@@ -37,7 +37,7 @@ Currently he is teaching at ESTSoft (2025)
 <ul class="fa-ul">
 <li>
 <span class="fa-li fas fa-graduation-cap"></span>
-<div>Vocational Trainder (3rd level), 2024</div>
+<div>Vocational Trainer (3rd level), 2024</div>
 <div class="small"></div>
 </li>
 </ul>
