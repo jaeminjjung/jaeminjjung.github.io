@@ -8,12 +8,12 @@ Currently he is teaching at ESTSoft (2025)
   <p>
     His interests and projects include:
 
-### - Artificial Intelligence
-### - Trading Systems
-### - Digital Government, Overseas Development Assistance
+### - Artificial Intelligence.
+### - System Trading.
+### - Digital Government, Overseas Development Assistance.
 ### - Sustainable Development Goals [9.5][4.4] 
-### - Digital Nomads & Expats
-### - Tourist attractive expat living house
+### - Digital Nomads & Expats.
+### - Tourist attractive expat living house.
 ### - Student aptitude development and career guidance.
 ### His vocation is : "to provide IT education and student aptitude, career guidance. His profession is to give hope and healing to students' minds based on one's inner path, genuine interest, aptitude, career, pathway, fun and what they wish to do, leading to success.”
   </p>
