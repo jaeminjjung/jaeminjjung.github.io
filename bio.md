@@ -2,7 +2,7 @@
 <main class="col-md-7">
 <h3>
   <p>
-    Jaemin Jeong received his Masters from City University of London (2017) and Bachelors from Seoul National University (2010). He was a Data Scientist, clients including Korea Development Bank, Sobetec, etc. He was a lecturer at Gwangju Institute of Science (2021) and Technology, Kookmin University (2022 ~ 2023), Samsung Multicampus(2024).
+    Jaemin Bonaventura Jeong received his Masters from City University of London (2017) and Bachelors from Seoul National University (2010). He was a Data Scientist, clients including Korea Development Bank, Sobetec, etc. He was a lecturer at Gwangju Institute of Science (2021) and Technology, Kookmin University (2022 ~ 2023), Samsung Multicampus(2024).
 Currently he is teaching at ESTSoft (2025)
   </p>
   <p>
