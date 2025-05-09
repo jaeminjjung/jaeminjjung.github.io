@@ -23,7 +23,7 @@
 <p> His second vocation is : Tourist Attractive Expat Living House</p>
 <p>He values at: #transparency #truth #trust #enjoy #kindness #expats #human rights #children rights
 
-CV <strong>[<a rel="noreferrer noopener" href="https://jeongjaem.in/CV_JaeminJeong.pdf" target="_blank">download</a>]</strong>
+<strong>[<a href="CV/CV_JeremyBonaventuraJeong_SDG_4.4.pdf" target="_blank">CV</a>]</strong>
 
 Masters Dissertation - <TV Show rating prediction by Machine Learning Methods with quantisation of the review> [<a href="https://jeongjaem.in/TV%20Show%20Rating%20Prediction%20with%20Machine%20Learning%20methods%20with%20quantisation%20of%20the%20review%20(2017)%20-%20Jaemin%20Jeong%20-%20City%2C%20University%20of%20London.pdf">click</a>]
 
@@ -33,8 +33,10 @@ Lecturer Introduction - Kookmin University [<a href="https://swgs.kookmin.ac.kr/
 <!-- wp:paragraph -->
 
 <strong>
-정재민 (JAEMIN JEREMY JEONG) <br/>
+정재민 (JAEMIN JEREMY BONAVENTURA JEONG) <br/>
 E. jaeminjjeong@gmail.com<br/>
+   bonaventurajeong@gmail.com<br/>
+
     </strong>
   
   
