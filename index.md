@@ -21,7 +21,7 @@
 
 <p>Vocations : 
 <p>"to provide IT education and student aptitude, career guidance. My profession is to give hope and healing to students' minds based on one's inner path, genuine interest, aptitude, career, pathway, fun and what they wish to do, leading to success.”</p>
-<p> @Tourist Attractive Expat Living House@</p>
+<p> Tourist Attractive Expat Living House</p>
 <p>[SDG 4.4.] Increasing the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs, and entrepreneurship.</p>
 <p>[SDG 9.5] Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending.</p>
 <p>[SDG 16.6] develop effective, accountable and transparent institutions at all levels.</p>
