@@ -28,7 +28,8 @@
 <p>Virtues : #transparency #truth #trust #enjoy #kindness #expats #human rights #children rights
 
 
-Curriculum Vitae - <strong>[<a href="CV/CV_JeremyBonaventuraJeong_SDG_4.4.pdf" target="_blank">click</a>]</strong>
+Curriculum Vitae - <strong>[<a href="https://github.com/jaeminjjeong/cv/raw/refs/heads/main/Curriculum%20Vitae%20_%20JAEMIN%20JEONG.docx" target="_blank">click</a>]</strong>
+Portfolio - <strong>[<a href="https://drive.google.com/file/d/1bEBxwOtlSoKe41V9OVZHBsTedRvUcJC1/view?usp=sharing" target="_blank">click</a>]</strong>
 
 Masters Dissertation - <TV Show rating prediction by Machine Learning Methods with quantisation of the review> [<a href="https://jeongjaem.in/TV%20Show%20Rating%20Prediction%20with%20Machine%20Learning%20methods%20with%20quantisation%20of%20the%20review%20(2017)%20-%20Jaemin%20Jeong%20-%20City%2C%20University%20of%20London.pdf">click</a>]
 
