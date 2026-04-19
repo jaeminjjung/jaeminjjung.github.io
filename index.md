@@ -25,7 +25,7 @@
 <p>[SDG 4.4.] Increasing the number of youth and adults who have relevant skills, including technical and vocational skills, for employment, decent jobs, and entrepreneurship.</p>
 <p>[SDG 9.5] Enhance scientific research, upgrade the technological capabilities of industrial sectors in all countries, in particular developing countries, including, encouraging innovation and substantially increasing the number of research and development workers per 1 million people and public and private research and development spending.</p>
 <p>[SDG 16.6] develop effective, accountable and transparent institutions at all levels.</p>
-<p>Virtues : #transparency #truth #trust #enjoy #kindness #expats #human rights #children rights
+<p>Virtues : #transparency #trust #kindness #expats #human rights #children rights
 
 
 Curriculum Vitae - <strong>[<a href="https://github.com/jaeminjjeong/cv/raw/refs/heads/main/Curriculum%20Vitae%20_%20JAEMIN%20JEONG.docx" target="_blank">click</a>]</strong>
