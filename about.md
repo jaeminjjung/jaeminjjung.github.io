@@ -27,5 +27,5 @@ V. [SDG 9.5] Enhance scientific research, upgrade the technological capabilities
 </p>
 
 ## Values
-### #transparency #trust #kindness #expats #human rights #children rights
+### #transparency #trust #kindness #expats #human rights #dignity
 
