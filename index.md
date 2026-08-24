@@ -28,11 +28,7 @@
 <p>Virtues : #transparency #trust #kindness #expats #human rights #children rights
 
 
-Curriculum Vitae - <strong>[<a href="
-                                
-                                https://github.com/jaeminjjung/jaeminjjeong.github.io/raw/refs/heads/main/CV/CV_Jeremy_Jeong_AISpecialist.docx
-                                
-                                " target="_blank">click</a>]</strong>
+Curriculum Vitae - <strong>[<a href="https://github.com/jaeminjjung/jaeminjjeong.github.io/raw/refs/heads/main/CV/CV_Jeremy_Jeong_AISpecialist.docx" target="_blank">click</a>]</strong>
 <br/>
 Portfolio - <strong></strong>
 <br/>
