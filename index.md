@@ -30,7 +30,7 @@
 
 Curriculum Vitae - <strong>[<a href="https://github.com/jaeminjjung/jaeminjjeong.github.io/raw/refs/heads/main/CV/CV_Jeremy_Jeong_AISpecialist.docx" target="_blank">click</a>]</strong>
 <br/>
-Portfolio - <strong></strong>
+<strong>Portfolio</strong>
 <br/>
 
 Masters Dissertation - <TV Show rating prediction by Machine Learning Methods with quantisation of the review> [<a href="https://jeongjaem.in/TV%20Show%20Rating%20Prediction%20with%20Machine%20Learning%20methods%20with%20quantisation%20of%20the%20review%20(2017)%20-%20Jaemin%20Jeong%20-%20City%2C%20University%20of%20London.pdf">click</a>]
@@ -44,7 +44,6 @@ Lecturer Introduction - Kookmin University [<a href="https://swgs.kookmin.ac.kr/
 <strong>
 정재민 (JAEMIN JEREMY BONAVENTURA JEONG) <br/>
 E. jaeminjjeong@gmail.com<br/>
-   bonaventurajeong@gmail.com<br/>
 
 </strong>
   
